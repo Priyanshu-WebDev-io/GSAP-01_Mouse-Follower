@@ -1,6 +1,6 @@
 # Mouse Follower Animation with GSAP
 
-🎨 **Overview**
+🎨 **Overview**  
 This project demonstrates a dynamic and interactive **mouse follower effect** built with **HTML**, **CSS**, and **GSAP (GreenSock Animation Platform)**. The animation tracks the cursor's movement and responds smoothly with stylish transitions, providing a modern, engaging user experience.
 
 ---
@@ -22,14 +22,14 @@ This project demonstrates a dynamic and interactive **mouse follower effect** bu
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Priyanshu-WebDev-io/GSAP-01_Mouse-Follower/
-   cd GSAP-01_Mouse-Follower
-   ```
+**Clone the Repository:**
+```bash
+git clone https://github.com/Priyanshu-WebDev-io/GSAP-01_Mouse-Follower/
+cd GSAP-01_Mouse-Follower
+```
 
-2. **Open the Project**:
-   - Open the `index.html` file in your browser to view the animation.
+**Open the Project:**
+- Open the `index.html` file in your browser to view the animation.
 
 ---
 
@@ -44,8 +44,6 @@ GSAP-01_Mouse-Follower/
 
 ---
 
----
-
 ## 🛠️ Customization
 You can easily customize the project by:
 1. Editing the size, color, and design of the mouse follower in `style.css`.
@@ -53,7 +51,19 @@ You can easily customize the project by:
 
 ---
 
+## 📸 Preview
+Here are some screenshots of the project in action:
+
+**Mouse Follower Effect (Idle State):**
+![Idle State](/public/Screenshot%202025-01-22%20212707.png)
+
+**Mouse Follower Effect (Following Cursor):**
+![Following Cursor](/public/Screenshot%202025-01-22%20213109.png)
+
+---
+
 ## 📧 Contact
 Have questions or feedback? Feel free to reach out!
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+
+- **Email**: [priyanshukumar2043@gmail.com](priyanshukumar2043@gmail.com)  
+- **GitHub**: [Priyanshu-WebDev-io](https://github.com/Priyanshu-WebDev-io/GSAP-01_Mouse-Follower/)
