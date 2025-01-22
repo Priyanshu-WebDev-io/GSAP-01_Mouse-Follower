@@ -24,8 +24,8 @@ This project demonstrates a dynamic and interactive **mouse follower effect** bu
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/mouse-follower-gsap.git
-   cd mouse-follower-gsap
+   git clone https://github.com/Priyanshu-WebDev-io/GSAP-01_Mouse-Follower/
+   cd GSAP-01_Mouse-Follower
    ```
 
 2. **Open the Project**:
@@ -35,7 +35,7 @@ This project demonstrates a dynamic and interactive **mouse follower effect** bu
 
 ## 📂 Project Structure
 ```
-mouse-follower-gsap/
+GSAP-01_Mouse-Follower/
 ├── index.html        # Main HTML file
 ├── style.css         # Styles for the project
 ├── script.js         # Animation logic with GSAP
@@ -43,9 +43,6 @@ mouse-follower-gsap/
 ```
 
 ---
-
-## 🌟 Demo
-[Live Demo Link Here]
 
 ---
 
